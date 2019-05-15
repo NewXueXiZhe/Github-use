@@ -9,3 +9,6 @@
 进入仓库，点击Find file后输入文件名称进行搜索。也可进入仓库后使用快捷键t进入搜索页面
 6、下载文件
 进入仓库后，点击Clone or download下载文件
+使用Github(Github Issues)
+作用：发现代码BUG，但是目前没有成型代码，需要讨论时用：或者使用开源项目出现问题时使用
+步骤：进入出现问题的项目，点击issues,创建一个issues（new issues），在页面中写上所有BUG或者说交流问题列表
